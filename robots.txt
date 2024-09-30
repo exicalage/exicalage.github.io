@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://exicalage.github.io/sitemap.html.gz
+Sitemap: https://exicalage.github.io/app/sitemap.html.gz
+Sitemap: https://exicalage.github.io/assets/sitemap.html.gz
+Sitemap: https://exicalage.github.io/css/sitemap.html.gz
+Sitemap: https://exicalage.github.io/data/sitemap.html.gz
+Sitemap: https://exicalage.github.io/includes/sitemap.html.gz
+Sitemap: https://exicalage.github.io/item/sitemap.html.gz
+Sitemap: https://exicalage.github.io/src/sitemap.html.gz
